@@ -21,7 +21,10 @@ haiere@github:~$ ./maintainer.sh
 </p>
 
 <p>
-  I build small, useful, and thoughtful things for the web.
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+small%2C+useful%2C+thoughtful+things.;Local-first.+Privacy-aware.+Focused.;Quietly+shipping+on+the+open+web."
+    alt="Typing animation"
+  />
 </p>
 
 <p>
@@ -69,39 +72,39 @@ Musician        Creating songs, audio tools, and music experiences
 Open web        Keeping projects lightweight, accessible, and independent
 ```
 
-- Building free tools for coding, data, AI, and everyday work
-- Exploring browser APIs, JavaScript, privacy, and local-first software
-- Creating music and interactive experiences for the open web
-- Maintaining projects that are simple, focused, and easy to use
+· Building free tools for coding, data, AI, and everyday work
+· Exploring browser APIs, JavaScript, privacy, and local-first software
+· Creating music and interactive experiences for the open web
+· Maintaining projects that are simple, focused, and easy to use
 
 ---
 
-## `haiere@github:~$ profile`
+haiere@github:~$ whoami
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### What I build
+What I build
 
-- Browser-based utilities
-- AI assistants and experiments
-- Privacy-focused web tools
-- Music and audio experiences
-- Small interactive web applications
-- Lightweight open-source projects
+· Browser-based utilities
+· AI assistants and experiments
+· Privacy-focused web tools
+· Music and audio experiences
+· Small interactive web applications
+· Lightweight open-source projects
 
 </td>
 <td width="50%" valign="top">
 
-### How I build
+How I build
 
-- Simple interfaces
-- Minimal dependencies
-- Local processing whenever possible
-- No forced accounts
-- No unnecessary tracking
-- Clear and focused user experiences
+· Simple interfaces
+· Minimal dependencies
+· Local processing whenever possible
+· No forced accounts
+· No unnecessary tracking
+· Clear and focused user experiences
 
 </td>
 </tr>
@@ -109,7 +112,7 @@ Open web        Keeping projects lightweight, accessible, and independent
 
 ---
 
-## Hajir Studio
+Hajir Studio
 
 <p align="center">
   <a href="https://hajir.is-a.dev/">
@@ -162,30 +165,46 @@ Open web        Keeping projects lightweight, accessible, and independent
 
 ---
 
-## Featured tools
+Featured tools
 
 <pre>
 haiere@github:~$ toolbox --list
 </pre>
 
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/stack?username=haiere&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F202972155%3Fu%3D9df4f7567e186b4a021216f578bdfc3104c24015%26v%3D4&style=terminal&v=oss-stack-1&mode=light"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://www.gitskins.com/api/section/stack?username=haiere&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F202972155%3Fu%3D9df4f7567e186b4a021216f578bdfc3104c24015%26v%3D4&style=terminal&v=oss-stack-1&mode=dark"
+  />
+  <img
+    src="https://www.gitskins.com/api/section/stack?username=haiere&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F202972155%3Fu%3D9df4f7567e186b4a021216f578bdfc3104c24015%26v%3D4&style=terminal&v=oss-stack-1&mode=dark"
+    width="100%"
+    alt="Hajir Muhaajir open-source technology toolbox"
+  />
+</picture>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [HajirSync](https://github.com/haiere/hajirsync)
+HajirSync
 
 Create and synchronize LRC lyric files quickly and accurately, with support for line-by-line and word-by-word timing.
 
-`JavaScript` · [Open repository](https://github.com/haiere/hajirsync)
+JavaScript · Open repository
 
 </td>
 <td width="50%" valign="top">
 
-### [Raia Vault](https://github.com/haiere/raia-vault)
+Raia Vault
 
 Generate strong passwords and manage secure password utilities locally in the browser.
 
-`CSS` · [Open repository](https://github.com/haiere/raia-vault)
+CSS · Open repository
 
 </td>
 </tr>
@@ -193,20 +212,20 @@ Generate strong passwords and manage secure password utilities locally in the br
 <tr>
 <td width="50%" valign="top">
 
-### [Raia Scrub](https://github.com/haiere/raia-scrub)
+Raia Scrub
 
 Remove GPS, camera, author, and document metadata from images and PDF files before sharing.
 
-`CSS` · [Open repository](https://github.com/haiere/raia-scrub)
+CSS · Open repository
 
 </td>
 <td width="50%" valign="top">
 
-### [Raia Delta](https://github.com/haiere/raia-delta)
+Raia Delta
 
 Compare text, code, and files with clear line-level and word-level differences.
 
-`CSS` · [Open repository](https://github.com/haiere/raia-delta)
+CSS · Open repository
 
 </td>
 </tr>
@@ -214,61 +233,34 @@ Compare text, code, and files with clear line-level and word-level differences.
 <tr>
 <td width="50%" valign="top">
 
-### [Raia Minify](https://github.com/haiere/raia-minify)
-
-Minify and optimize code or text directly in the browser without uploading your files.
-
-`JavaScript` · [Open website](https://hajir.is-a.dev/)
-
-</td>
-<td width="50%" valign="top">
-
-### [RaiaSpace](https://github.com/haiere/raiaspace)
-
-A lightweight search and discovery space for exploring the open web.
-
-`JavaScript` · [Explore project](https://github.com/haiere/raiaspace)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Calc](https://github.com/haiere/calc)
-
-A fast and uncomplicated calculator for everyday calculations.
-
-`JavaScript` · [Explore project](https://github.com/haiere/calc)
-
-</td>
-<td width="50%" valign="top">
-
-### [Hajir Studio Website](https://github.com/haiere/haiere.github.io)
+Hajir Studio Website
 
 The central home for my tools, AI projects, games, music, and experiments.
 
-`HTML` · [Visit website](https://hajir.is-a.dev/)
+HTML · Visit website
+
+</td>
+<td width="50%" valign="top">
+
+More projects
+
+Explore my repositories for experiments, utilities, prototypes, and unfinished ideas.
+
+Browse all repositories →
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/haiere?tab=repositories">
-    <strong>Explore all repositories →</strong>
-  </a>
-</p>
-
 ---
 
-## AI and interactive projects
+AI and interactive projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Raia](https://hajir.is-a.dev/)
+Raia
 
 An AI chatbot for conversations, ideas, practical questions, and everyday workflows.
 
@@ -282,7 +274,7 @@ An AI chatbot for conversations, ideas, practical questions, and everyday workfl
 </td>
 <td width="50%" valign="top">
 
-### Kirana
+Kirana
 
 A thoughtful AI companion for creative conversations, reflection, and everyday ideas.
 
@@ -299,7 +291,7 @@ A thoughtful AI companion for creative conversations, reflection, and everyday i
 
 ---
 
-## Browser games
+Browser games
 
 Small games designed to run directly in the browser without installation or login.
 
@@ -307,14 +299,14 @@ Small games designed to run directly in the browser without installation or logi
 <tr>
 <td width="50%" valign="top">
 
-### Chess
+Chess
 
 A classic chess experience for casual games and quiet practice.
 
 </td>
 <td width="50%" valign="top">
 
-### Loveyou
+Loveyou
 
 A small interactive page designed as a warm digital gift.
 
@@ -324,14 +316,14 @@ A small interactive page designed as a warm digital gift.
 <tr>
 <td width="50%" valign="top">
 
-### Orbit Weaver
+Orbit Weaver
 
 Guide a ship through orbital paths while navigating passing stars.
 
 </td>
 <td width="50%" valign="top">
 
-### Starfall
+Starfall
 
 Catch falling stars in a quick and lightweight browser arcade game.
 
@@ -341,7 +333,7 @@ Catch falling stars in a quick and lightweight browser arcade game.
 
 ---
 
-## Music
+Music
 
 Music is another way I explore ideas.
 
@@ -355,15 +347,15 @@ I create songs, experiment with sound, and build simple music experiences for st
   />
 </p>
 
-### Signature Music
+Signature Music
 
 A lightweight browser music player for listening to selected tracks without an account.
 
-- Runs directly in the browser
-- Simple playback controls
-- Adjustable volume
-- No login required
-- No unnecessary server dependency
+· Runs directly in the browser
+· Simple playback controls
+· Adjustable volume
+· No login required
+· No unnecessary server dependency
 
 <p align="center">
   <a href="https://hajir.is-a.dev/">
@@ -380,7 +372,7 @@ A lightweight browser music player for listening to selected tracks without an a
 <br />
 
 ```bash
-git clone [https://github.com/haiere/haiere.github.io.git](https://github.com/haiere/haiere.github.io.git)
+git clone https://github.com/haiere/haiere.github.io.git
 cd haiere.github.io
 ```
 
@@ -390,7 +382,7 @@ Start a local server and open the project in your browser.
 
 ---
 
-## Technology
+Technology
 
 <p align="center">
 
@@ -426,34 +418,34 @@ Start a local server and open the project in your browser.
   <code>AI</code>
 </p>
 
-> Most of my projects are designed to work in the browser with minimal dependencies and a strong preference for local processing.
+Most of my projects are designed to work in the browser with minimal dependencies and a strong preference for local processing.
 
 ---
 
-## Principles
+Principles
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Privacy first
+Privacy first
 
-- Process data locally whenever possible
-- Avoid unnecessary uploads
-- Do not require accounts without a reason
-- Avoid hidden tracking
-- Keep user data under the user's control
+· Process data locally whenever possible
+· Avoid unnecessary uploads
+· Do not require accounts without a reason
+· Avoid hidden tracking
+· Keep user data under the user's control
 
 </td>
 <td width="50%" valign="top">
 
-### Useful by design
+Useful by design
 
-- Solve one problem clearly
-- Keep interfaces understandable
-- Remove unnecessary complexity
-- Make projects easy to access
-- Document enough for others to continue
+· Solve one problem clearly
+· Keep interfaces understandable
+· Remove unnecessary complexity
+· Make projects easy to access
+· Document enough for others to continue
 
 </td>
 </tr>
@@ -461,7 +453,18 @@ Start a local server and open the project in your browser.
 
 ---
 
-## GitHub activity
+Ayano mode
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=00C7B7&center=true&vCenter=true&width=600&lines=Quiet.+Precise.+Reliable.;Less+noise.+More+focus.;Small+details.+Clean+results.;Build+quietly.+Ship+consistently."
+    alt="Ayano mode typing animation"
+  />
+</p>
+
+---
+
+GitHub activity
 
 <details>
 <summary><strong>View GitHub statistics</strong></summary>
@@ -497,7 +500,7 @@ Start a local server and open the project in your browser.
 
 ---
 
-## Contribution trail
+Contribution trail
 
 <picture>
   <source
@@ -517,7 +520,7 @@ Start a local server and open the project in your browser.
 
 ---
 
-## Connect
+Connect
 
 <p align="center">
 
@@ -560,7 +563,7 @@ Start a local server and open the project in your browser.
 
 ---
 
-## Support the work
+Support the work
 
 If you find one of my tools useful, you can help keep the projects free and maintained.
 
@@ -589,7 +592,7 @@ If you find one of my tools useful, you can help keep the projects free and main
 
 ---
 
-## Contribute
+Contribute
 
 <pre>
 haiere@github:~$ join --community
@@ -597,12 +600,25 @@ haiere@github:~$ join --community
 
 Contributions, suggestions, and thoughtful feedback are welcome.
 
-- Open an issue
-- Suggest a feature
-- Report a problem
-- Improve documentation
-- Share a project built with these tools
-- Start a discussion
+· Open an issue
+· Suggest a feature
+· Report a problem
+· Improve documentation
+· Share a project built with these tools
+· Start a discussion
+
+---
+
+GitHub trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=haiere&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+      alt="GitHub trophies"
+    />
+  </a>
+</p>
 
 ---
 
@@ -611,21 +627,21 @@ Contributions, suggestions, and thoughtful feedback are welcome.
 
 <br />
 
-> “Your time is limited, so don’t waste it living someone else’s life.”
->
-> — Steve Jobs
+"Your time is limited, so don't waste it living someone else's life."
 
-> “The important thing is to never stop learning.”
->
-> — Adrian Newey
+— Steve Jobs
 
-> “If you want to make the world a better place, take a look at yourself and make a change.”
->
-> — Michael Jackson
+"The important thing is to never stop learning."
 
-> “Failure is not the opposite of success; it is part of success.”
->
-> — Mark Rober
+— Adrian Newey
+
+"If you want to make the world a better place, take a look at yourself and make a change."
+
+— Michael Jackson
+
+"Failure is not the opposite of success; it is part of success."
+
+— Mark Rober
 
 </details>
 
@@ -647,9 +663,9 @@ Contributions, suggestions, and thoughtful feedback are welcome.
 <br />
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:00C7B7&height=100&section=footer"
-  width="100%"
-  alt="Footer decoration"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:00C7B7&height=100&section=footer"
+width="100%"
+alt="Footer decoration"
 />
 
 <sub>
