@@ -1,9 +1,5 @@
 <div align="center">
 
-<pre>
-haiere@github:~$ ./maintainer.sh
-</pre>
-
 <a href="https://hajir.is-a.dev/">
   <img
     src="./ayano-banner.png"
@@ -13,98 +9,90 @@ haiere@github:~$ ./maintainer.sh
 </a>
 
 <br />
+<br />
 
-<h1>Hajir Muhaajir</h1>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6D4AFF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Hajir+Muhaajir;Frontend+Developer;Open-Source+Builder;Privacy+Enthusiast;Quietly+building+useful+things"
+  alt="Typing SVG animation"
+/>
 
 <p>
-  <strong>Web Maker · AI Builder · Musician · Open Web Creator</strong>
+  <strong>Frontend Developer · Open-Source Builder · Privacy Enthusiast</strong>
 </p>
 
 <p>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00C7B7&center=true&vCenter=true&width=700&lines=Building+small%2C+useful%2C+thoughtful+things.;Local-first.+Privacy-aware.+Focused.;Quietly+shipping+on+the+open+web."
-    alt="Typing animation"
-  />
+  Building useful things quietly, with curiosity, precision, and a little Ayano energy.
 </p>
 
 <p>
-  <a href="https://hajir.is-a.dev/">
-    <img
-      src="https://img.shields.io/badge/Portfolio-hajir.is--a.dev-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"
-      alt="Portfolio"
-    />
-  </a>
   <a href="https://github.com/haiere">
-    <img
-      src="https://img.shields.io/badge/GitHub-haiere-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
+    <img src="https://img.shields.io/badge/GitHub-haiere-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://hajir.is-a.dev/">
+    <img src="https://img.shields.io/badge/Website-hajir.is--a.dev-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Personal website" />
   </a>
   <a href="mailto:isthajir@proton.me">
-    <img
-      src="https://img.shields.io/badge/Email-Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"
-      alt="Email"
-    />
+    <img src="https://img.shields.io/badge/Email-Proton_Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://twitter.com/haierehere">
+    <img src="https://img.shields.io/badge/Twitter-@haierehere-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 <p>
-  <img
-    src="https://komarev.com/ghpvc/?username=haiere&label=PROFILE+VIEWS&color=00C7B7&style=flat-square"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=haiere&label=Profile%20Views&color=6D4AFF&style=for-the-badge" alt="Profile views" />
 </p>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=header&text=&fontSize=0"
+  width="100%"
+  alt="Header wave"
+/>
 
 </div>
 
 ---
 
-## About
+## About Me
 
-I am Hajir, a web maker and musician from Indonesia. I create browser-based tools, web applications, AI experiments, and digital experiences designed to be useful, lightweight, and easy to access.
+> Quietly building simple, useful, and privacy-first web tools.
 
-My work is guided by a simple idea: software does not need to be complicated to be meaningful. I prefer focused interfaces, minimal dependencies, local-first processing, and tools that respect the people using them.
+I'm a frontend-focused developer and open-source builder from Indonesia, interested in browser-native tools, privacy, artificial intelligence, digital media, and music technology.
 
-```text
-Web maker       Building practical websites and browser tools
-AI builder      Exploring useful and accessible AI experiences
-Musician        Creating songs, audio tools, and music experiences
-Open web        Keeping projects lightweight, accessible, and independent
-```
+I enjoy creating small, focused projects that are easy to use, easy to understand, and respectful of the user.
 
-· Building free tools for coding, data, AI, and everyday work
-· Exploring browser APIs, JavaScript, privacy, and local-first software
-· Creating music and interactive experiences for the open web
-· Maintaining projects that are simple, focused, and easy to use
+- Building browser-based tools and personal web projects
+- Exploring JavaScript, AI, privacy, and digital media
+- Interested in music, audio tools, lyrics, and creative technology
+- Reach me at [isthajir@proton.me](mailto:isthajir@proton.me)
+- All of my projects are available at [hajir.is-a.dev](https://hajir.is-a.dev/)
 
 ---
 
-haiere@github:~$ whoami
+## `haiere@github:~$ whoami`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-What I build
+### Developer Profile
 
-· Browser-based utilities
-· AI assistants and experiments
-· Privacy-focused web tools
-· Music and audio experiences
-· Small interactive web applications
-· Lightweight open-source projects
+- Frontend-focused developer
+- Open-source enthusiast
+- Browser-tool builder
+- Privacy-conscious engineer
+- Experiment-driven learner
 
 </td>
 <td width="50%" valign="top">
 
-How I build
+### Current Interests
 
-· Simple interfaces
-· Minimal dependencies
-· Local processing whenever possible
-· No forced accounts
-· No unnecessary tracking
-· Clear and focused user experiences
+- HTML, CSS, and JavaScript
+- Browser APIs and local-first tools
+- AI experiments
+- Android customization
+- Audio and music technology
 
 </td>
 </tr>
@@ -112,7 +100,47 @@ How I build
 
 ---
 
-Hajir Studio
+## Tech Stack
+
+<p align="center">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+</a>
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+</a>
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+</a>
+<a href="https://www.linux.org/">
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+</a>
+
+</p>
+
+<p align="center">
+  <code>HTML</code>
+  <code>CSS</code>
+  <code>JavaScript</code>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>Linux</code>
+  <code>Web APIs</code>
+</p>
+
+> [!NOTE]
+> Most of my tools run directly in the browser, with minimal dependencies and no unnecessary backend.
+
+---
+
+## Hajir Studio
 
 <p align="center">
   <a href="https://hajir.is-a.dev/">
@@ -159,13 +187,13 @@ Hajir Studio
 
 <p align="center">
   <a href="https://hajir.is-a.dev/">
-    <strong>Visit Hajir Studio →</strong>
+    <strong>Visit Hajir Studio</strong>
   </a>
 </p>
 
 ---
 
-Featured tools
+## Open-Source Toolbox
 
 <pre>
 haiere@github:~$ toolbox --list
@@ -187,66 +215,72 @@ haiere@github:~$ toolbox --list
   />
 </picture>
 
+---
+
+## Featured Projects
+
+<pre>
+haiere@github:~$ ls ~/projects
+</pre>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-HajirSync
+### [hajirsync](https://github.com/haiere/hajirsync)
 
-Create and synchronize LRC lyric files quickly and accurately, with support for line-by-line and word-by-word timing.
+A browser-based LRC editor for synchronizing lyrics with music, line by line or word by word.
 
-JavaScript · Open repository
-
-</td>
-<td width="50%" valign="top">
-
-Raia Vault
-
-Generate strong passwords and manage secure password utilities locally in the browser.
-
-CSS · Open repository
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-Raia Scrub
-
-Remove GPS, camera, author, and document metadata from images and PDF files before sharing.
-
-CSS · Open repository
+`JavaScript` · [View repository](https://github.com/haiere/hajirsync)
 
 </td>
 <td width="50%" valign="top">
 
-Raia Delta
+### [raia-scrub](https://github.com/haiere/raia-scrub)
 
-Compare text, code, and files with clear line-level and word-level differences.
+Remove GPS, camera, author, and document metadata from images and PDFs locally in your browser.
 
-CSS · Open repository
+`CSS` · [View repository](https://github.com/haiere/raia-scrub)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-Hajir Studio Website
+### [raia-delta](https://github.com/haiere/raia-delta)
 
-The central home for my tools, AI projects, games, music, and experiments.
+Compare text, code, and files with line-level and word-level diff views.
 
-HTML · Visit website
+`CSS` · [View repository](https://github.com/haiere/raia-delta)
 
 </td>
 <td width="50%" valign="top">
 
-More projects
+### [raia-vault](https://github.com/haiere/raia-vault)
+
+Generate strong passwords and manage private credentials locally without cloud storage or tracking.
+
+`CSS` · [View repository](https://github.com/haiere/raia-vault)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [haiere.github.io](https://github.com/haiere/haiere.github.io)
+
+Personal portfolio and web-tool hub featuring AI chatbots, mini games, original music, and privacy-first utilities.
+
+`HTML` · [Visit website](https://hajir.is-a.dev/)
+
+</td>
+<td width="50%" valign="top">
+
+### More Projects
 
 Explore my repositories for experiments, utilities, prototypes, and unfinished ideas.
 
-Browse all repositories →
+[Browse all repositories](https://github.com/haiere?tab=repositories)
 
 </td>
 </tr>
@@ -254,13 +288,13 @@ Browse all repositories →
 
 ---
 
-AI and interactive projects
+## AI and Interactive Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Raia
+### Raia
 
 An AI chatbot for conversations, ideas, practical questions, and everyday workflows.
 
@@ -274,7 +308,7 @@ An AI chatbot for conversations, ideas, practical questions, and everyday workfl
 </td>
 <td width="50%" valign="top">
 
-Kirana
+### Kirana
 
 A thoughtful AI companion for creative conversations, reflection, and everyday ideas.
 
@@ -291,7 +325,7 @@ A thoughtful AI companion for creative conversations, reflection, and everyday i
 
 ---
 
-Browser games
+## Browser Games
 
 Small games designed to run directly in the browser without installation or login.
 
@@ -299,31 +333,30 @@ Small games designed to run directly in the browser without installation or logi
 <tr>
 <td width="50%" valign="top">
 
-Chess
+### Chess
 
 A classic chess experience for casual games and quiet practice.
 
 </td>
 <td width="50%" valign="top">
 
-Loveyou
+### Loveyou
 
 A small interactive page designed as a warm digital gift.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-Orbit Weaver
+### Orbit Weaver
 
 Guide a ship through orbital paths while navigating passing stars.
 
 </td>
 <td width="50%" valign="top">
 
-Starfall
+### Starfall
 
 Catch falling stars in a quick and lightweight browser arcade game.
 
@@ -333,7 +366,7 @@ Catch falling stars in a quick and lightweight browser arcade game.
 
 ---
 
-Music
+## Music
 
 Music is another way I explore ideas.
 
@@ -343,19 +376,19 @@ I create songs, experiment with sound, and build simple music experiences for st
   <img
     src="https://media.tenor.com/8Kf7N7j0L7AAAAAC/anime-girl-anime.gif"
     width="280"
-    alt="Animated anime character listening to music"
+    alt="Anime character listening to music"
   />
 </p>
 
-Signature Music
+### Signature Music
 
 A lightweight browser music player for listening to selected tracks without an account.
 
-· Runs directly in the browser
-· Simple playback controls
-· Adjustable volume
-· No login required
-· No unnecessary server dependency
+- Runs directly in the browser
+- Simple playback controls
+- Adjustable volume
+- No login required
+- No unnecessary server dependency
 
 <p align="center">
   <a href="https://hajir.is-a.dev/">
@@ -382,70 +415,30 @@ Start a local server and open the project in your browser.
 
 ---
 
-Technology
-
-<p align="center">
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
-</a>
-<a href="https://git-scm.com/">
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-</a>
-<a href="https://github.com/">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-<a href="https://www.linux.org/">
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-</a>
-
-</p>
-
-<p align="center">
-  <code>HTML</code>
-  <code>CSS</code>
-  <code>JavaScript</code>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>Linux</code>
-  <code>Web APIs</code>
-  <code>AI</code>
-</p>
-
-Most of my projects are designed to work in the browser with minimal dependencies and a strong preference for local processing.
-
----
-
-Principles
+Design Philosophy
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Privacy first
+Privacy by Default
 
 · Process data locally whenever possible
 · Avoid unnecessary uploads
-· Do not require accounts without a reason
-· Avoid hidden tracking
-· Keep user data under the user's control
+· No forced accounts
+· No hidden tracking
+· No unnecessary telemetry
 
 </td>
 <td width="50%" valign="top">
 
-Useful by design
+Simple by Design
 
-· Solve one problem clearly
-· Keep interfaces understandable
-· Remove unnecessary complexity
-· Make projects easy to access
-· Document enough for others to continue
+· Plain HTML, CSS, and JavaScript
+· Minimal dependencies
+· Clear documentation
+· Easy to fork and modify
+· Focused user experiences
 
 </td>
 </tr>
@@ -453,7 +446,15 @@ Useful by design
 
 ---
 
-Ayano mode
+Ayano Mode
+
+<p align="center">
+  <img
+    src="https://media.tenor.com/8Kf7N7j0L7AAAAAC/anime-girl-anime.gif"
+    width="280"
+    alt="Anime character reaction"
+  />
+</p>
 
 <p align="center">
   <img
@@ -464,43 +465,45 @@ Ayano mode
 
 ---
 
-GitHub activity
+GitHub Activity
 
-<details>
-<summary><strong>View GitHub statistics</strong></summary>
-
-<br />
+<pre>
+haiere@github:~$ git log --oneline
+</pre>
 
 <div align="center">
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=haiere&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most used programming languages"
-  />
-</p>
+<img
+src="https://github-profile-trophy.vercel.app/?username=haiere&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"
+alt="GitHub profile trophies"
+/>
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=haiere&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Hajir Muhaajir GitHub statistics"
-  />
-</p>
+<br />
+<br />
 
-<p>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=haiere&theme=tokyonight&hide_border=true"
-    alt="Hajir Muhaajir GitHub contribution streak"
-  />
-</p>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs?username=haiere&layout=compact&theme=tokyonight&hide_border=true&locale=en&show_icons=true&card_width=450"
+alt="Most used programming languages"
+/>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=haiere&show_icons=true&theme=tokyonight&hide_border=true&locale=en&card_width=450"
+alt="Hajir Muhaajir GitHub statistics"
+/>
+
+<br />
+<br />
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=haiere&theme=tokyonight&hide_border=true&locale=en"
+alt="Hajir Muhaajir GitHub contribution streak"
+/>
 
 </div>
 
-</details>
-
 ---
 
-Contribution trail
+Contribution Trail
 
 <picture>
   <source
@@ -520,74 +523,48 @@ Contribution trail
 
 ---
 
-Connect
+Find Me Online
 
 <p align="center">
 
 <a href="https://twitter.com/haierehere">
-  <img
-    src="https://img.shields.io/badge/Twitter-@haierehere-1DA1F2?style=for-the-badge&logo=x&logoColor=white"
-    alt="Twitter"
-  />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61550250032396">
-  <img
-    src="https://img.shields.io/badge/Facebook-Hajirstein-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    alt="Facebook"
-  />
+  <img src="https://img.shields.io/badge/Twitter-@haierehere-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 <a href="https://instagram.com/muhaajirere">
-  <img
-    src="https://img.shields.io/badge/Instagram-@muhaajirere-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
+  <img src="https://img.shields.io/badge/Instagram-@muhaajirere-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 <a href="https://www.youtube.com/c/hajirstein">
-  <img
-    src="https://img.shields.io/badge/YouTube-Hajirstein-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    alt="YouTube"
-  />
+  <img src="https://img.shields.io/badge/YouTube-Hajirstein-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=61550250032396">
+  <img src="https://img.shields.io/badge/Facebook-Hajirstein-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
 </a>
 <a href="https://discord.com/users/1276865849231413299">
-  <img
-    src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white"
-    alt="Discord"
-  />
+  <img src="https://img.shields.io/badge/Discord-Lqhd-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
-</p>
-
-<p align="center">
-  <a href="mailto:isthajir@proton.me">isthajir@proton.me</a>
 </p>
 
 ---
 
-Support the work
-
-If you find one of my tools useful, you can help keep the projects free and maintained.
+Support My Work
 
 <p align="center">
 
 <a href="https://sociabuzz.com/hajirstudio">
-  <img
-    src="https://img.shields.io/badge/Support_on-Sociabuzz-2563EB?style=for-the-badge"
-    alt="Support on Sociabuzz"
-  />
+  <img src="https://img.shields.io/badge/Support_on-Sociabuzz-2563EB?style=for-the-badge" alt="Support on Sociabuzz" />
 </a>
 <a href="https://buymeacoffee.com/hajirstudio">
-  <img
-    src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"
-    alt="Buy Me a Coffee"
-  />
+  <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee" />
 </a>
 
-</p>
+<br />
+<br />
 
-<p align="center">
-  <sub>
-    Your support helps keep these tools free, lightweight, and available on the open web.
-  </sub>
+<sub>
+Your support helps keep these tools free, private, and actively maintained.
+</sub>
+
 </p>
 
 ---
@@ -598,27 +575,14 @@ Contribute
 haiere@github:~$ join --community
 </pre>
 
-Contributions, suggestions, and thoughtful feedback are welcome.
+If something here is useful, you can contribute by:
 
-· Open an issue
-· Suggest a feature
-· Report a problem
-· Improve documentation
-· Share a project built with these tools
-· Start a discussion
-
----
-
-GitHub trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=haiere&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-      alt="GitHub trophies"
-    />
-  </a>
-</p>
+· Opening an issue
+· Suggesting a feature
+· Reporting a bug
+· Improving documentation
+· Sharing a project built on top of this work
+· Starting a discussion
 
 ---
 
@@ -649,6 +613,12 @@ GitHub trophies
 
 <div align="center">
 
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=&fontSize=0"
+width="100%"
+alt="Footer wave"
+/>
+
 <a href="https://github.com/haiere">GitHub</a>
 &nbsp;·&nbsp;
 <a href="https://hajir.is-a.dev/">Website</a>
@@ -661,12 +631,6 @@ GitHub trophies
 
 <br />
 <br />
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,100:00C7B7&height=100&section=footer"
-width="100%"
-alt="Footer decoration"
-/>
 
 <sub>
 Built in public by Hajir Muhaajir<br />
